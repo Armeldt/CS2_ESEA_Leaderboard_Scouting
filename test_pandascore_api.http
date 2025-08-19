@@ -1,0 +1,3 @@
+GET https://api.pandascore.co/csgo/leagues?sort=-modified_at&search[name]=Main&page=1&per_page=50
+Accept: application/json
+Authorization: Bearer Q-iD_qxCnNku8S37g_iRwGuBNMxxqTRVQ8F_ESFHrzT9aU7XmKs
