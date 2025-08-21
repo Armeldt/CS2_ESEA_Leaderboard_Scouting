@@ -94,7 +94,7 @@ CREATE TABLE IF NOT EXISTS fact_players_stats (
     count_1v2 INT,
     triple_kills INT,
     headshots INT,
-    started_at DATE,
+    match_day DATE,
     created_at TIMESTAMPTZ DEFAULT NOW(),
     PRIMARY KEY (match_id, match_round, player_id)
 )

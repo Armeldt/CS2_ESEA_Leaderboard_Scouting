@@ -3,4 +3,6 @@
 /.vscode
 /faceitapidata
 External tables
-ETL_workload_V2.ipynb
+CS2_ESEA_dataviz_v2.pbix
+CS2_ESEA_dataviz.pbix
+ETL_workload.ipynb
