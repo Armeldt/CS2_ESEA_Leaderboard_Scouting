@@ -33,6 +33,15 @@ This project helps **analysts, coaches, and esports enthusiasts** explore ESEA l
 
 Currently running a POC on a sample of matches on an offline dashboard. if successfull dashboard will be available online
 
+## Screenshots : 
+
+Team summary stats : 
+
+<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/%7B233AF8C0-CA25-4DBA-8D7D-637EC812D64E%7D.png?raw=true" alt="team_summary_page" width="1000"/>
+
+Players detailed stats : 
+
+<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/%7B67B12FA0-1B98-410E-ADD4-7CC6EA83ECFC%7D.png?raw=true" alt="players_detailed_page" width="1000"/>
 ## License
 
 MIT License © Armeldt
