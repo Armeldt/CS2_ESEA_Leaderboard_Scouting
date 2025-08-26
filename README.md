@@ -2,6 +2,8 @@
 
 A **Power BI dashboard** designed to analyze competitive CS2 **ESEA league** matches, teams, and player performance. It provides detailed insights into individual and team metrics across ESEA competitions.
 
+https://app.powerbi.com/view?r=eyJrIjoiYjBlYzgwZGEtZjgzYS00MGYxLThmYTMtYmY1N2RkZTFlMDkzIiwidCI6Ijg3NDFlMDRhLWEyM2UtNDk5MS1hYjg4LWUxNTE0OTUwZDcxMCJ9&pageName=5d8c9215e02126c90951
+
 ## Features
 
 - **Dimensional model:** Separate tables for players, teams, matches, and stats for efficient analysis.  
