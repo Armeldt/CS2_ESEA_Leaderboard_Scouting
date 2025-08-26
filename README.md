@@ -2,7 +2,7 @@
 
 A **Power BI dashboard** designed to analyze competitive CS2 **ESEA league** matches, teams, and player performance. It provides detailed insights into individual and team metrics across ESEA competitions.
 
-https://app.powerbi.com/view?r=eyJrIjoiYjBlYzgwZGEtZjgzYS00MGYxLThmYTMtYmY1N2RkZTFlMDkzIiwidCI6Ijg3NDFlMDRhLWEyM2UtNDk5MS1hYjg4LWUxNTE0OTUwZDcxMCJ9&pageName=5d8c9215e02126c90951
+[Access dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjBlYzgwZGEtZjgzYS00MGYxLThmYTMtYmY1N2RkZTFlMDkzIiwidCI6Ijg3NDFlMDRhLWEyM2UtNDk5MS1hYjg4LWUxNTE0OTUwZDcxMCJ9&pageName=5d8c9215e02126c90951)
 
 ## Features
 
@@ -39,11 +39,16 @@ Currently running a POC on a sample of matches on an offline dashboard. if succe
 
 Team summary stats : 
 
-<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/%7B233AF8C0-CA25-4DBA-8D7D-637EC812D64E%7D.png?raw=true" alt="team_summary_page" width="1000"/>
+<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/team_stats.png?raw=true" alt="team_summary_page" width="1000"/>
 
 Players detailed stats : 
 
-<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/%7B67B12FA0-1B98-410E-ADD4-7CC6EA83ECFC%7D.png?raw=true" alt="players_detailed_page" width="1000"/>
+<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/player_stats.png?raw=true" alt="players_detailed_page" width="1000"/>
+
+Leaderboard : 
+
+<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/leaderboard.png?raw=true" alt="players_detailed_page" width="1000"/>
+
 ## License
 
 MIT License © Armeldt
