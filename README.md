@@ -33,7 +33,8 @@ This project helps **analysts, coaches, and esports enthusiasts** explore ESEA l
 
 ## State of the project : 
 
-Currently running a POC on a sample of matches on an offline dashboard. if successfull dashboard will be available online
+the dashboard is up to date and available on the following link : [Access dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjBlYzgwZGEtZjgzYS00MGYxLThmYTMtYmY1N2RkZTFlMDkzIiwidCI6Ijg3NDFlMDRhLWEyM2UtNDk5MS1hYjg4LWUxNTE0OTUwZDcxMCJ9&pageName=5d8c9215e02126c90951)
+
 
 ## Screenshots : 
 
