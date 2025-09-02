@@ -7,9 +7,9 @@ A **Power BI dashboard** designed to analyze competitive CS2 **ESEA league** mat
 ## Features
 
 - **Dimensional model:** Separate tables for players, teams, matches, and stats for efficient analysis.  
-- **Custom calculations:** Measures for K/D ratio, win rate, rounds won/lost, and sniper vs. rifle roles.  
-- **Filters & slicers:** Slice by division, map, date, or number of matches played.  
-- **Interactive visuals:** Matrix, charts, and maps with player and team breakdowns.  
+- **Custom calculations:** : Performance metrics (entries, utility, scoreboard...) and positionning metrics (z-score, percentiles ...) to define a level of performance and compare it to other players
+- **Filters & slicers:** Slice by division, map, date, number of matches played and more  
+- **Interactive visuals:** Matrix, charts, scatter plots and more with player and team breakdowns.  
 - **Dynamic tooltips & images:** Display team logos, player flags, and clickable links without affecting filtering.  
 - **Majority country & French-speaking indicators:** Automatically assess team nationality and presence of French-speaking players.
 
