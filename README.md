@@ -2,14 +2,14 @@
 
 A **Power BI dashboard** designed to analyze competitive CS2 **ESEA league** matches, teams, and player performance. It provides detailed insights into individual and team metrics across ESEA competitions.
 
-https://app.powerbi.com/view?r=eyJrIjoiYjBlYzgwZGEtZjgzYS00MGYxLThmYTMtYmY1N2RkZTFlMDkzIiwidCI6Ijg3NDFlMDRhLWEyM2UtNDk5MS1hYjg4LWUxNTE0OTUwZDcxMCJ9&pageName=5d8c9215e02126c90951
+[Access dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjBlYzgwZGEtZjgzYS00MGYxLThmYTMtYmY1N2RkZTFlMDkzIiwidCI6Ijg3NDFlMDRhLWEyM2UtNDk5MS1hYjg4LWUxNTE0OTUwZDcxMCJ9&pageName=5d8c9215e02126c90951)
 
 ## Features
 
 - **Dimensional model:** Separate tables for players, teams, matches, and stats for efficient analysis.  
-- **Custom calculations:** Measures for K/D ratio, win rate, rounds won/lost, and sniper vs. rifle roles.  
-- **Filters & slicers:** Slice by division, map, date, or number of matches played.  
-- **Interactive visuals:** Matrix, charts, and maps with player and team breakdowns.  
+- **Custom calculations:** : Performance metrics (entries, utility, scoreboard...) and positionning metrics (z-score, percentiles ...) to define a level of performance and compare it to other players
+- **Filters & slicers:** Slice by division, map, date, number of matches played and more  
+- **Interactive visuals:** Matrix, charts, scatter plots and more with player and team breakdowns.  
 - **Dynamic tooltips & images:** Display team logos, player flags, and clickable links without affecting filtering.  
 - **Majority country & French-speaking indicators:** Automatically assess team nationality and presence of French-speaking players.
 
@@ -33,17 +33,23 @@ This project helps **analysts, coaches, and esports enthusiasts** explore ESEA l
 
 ## State of the project : 
 
-Currently running a POC on a sample of matches on an offline dashboard. if successfull dashboard will be available online
+the dashboard is up to date and available on the following link : [Access dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjBlYzgwZGEtZjgzYS00MGYxLThmYTMtYmY1N2RkZTFlMDkzIiwidCI6Ijg3NDFlMDRhLWEyM2UtNDk5MS1hYjg4LWUxNTE0OTUwZDcxMCJ9&pageName=5d8c9215e02126c90951)
+
 
 ## Screenshots : 
 
 Team summary stats : 
 
-<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/%7B233AF8C0-CA25-4DBA-8D7D-637EC812D64E%7D.png?raw=true" alt="team_summary_page" width="1000"/>
+<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/team_stats.png?raw=true" alt="team_summary_page" width="1000"/>
 
 Players detailed stats : 
 
-<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/%7B67B12FA0-1B98-410E-ADD4-7CC6EA83ECFC%7D.png?raw=true" alt="players_detailed_page" width="1000"/>
+<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/player_stats.png?raw=true" alt="players_detailed_page" width="1000"/>
+
+Leaderboard : 
+
+<img src="https://github.com/Armeldt/CS2_ESEA_Leaderboard_Scouting/blob/main/Screenshots/leaderboard.png?raw=true" alt="players_detailed_page" width="1000"/>
+
 ## License
 
 MIT License © Armeldt
